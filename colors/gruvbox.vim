@@ -146,7 +146,7 @@ call s:Color('light3',      ['#bdae93', 248])     " 189-174-147
 call s:Color('light4',      ['#a89984', 246])     " 168-153-132
 call s:Color('light4_256',  ['#a89984', 246])     " 168-153-132
 
-call s:Color('bright_red',     ['#fb4934', 167])     " 251-73-52
+call s:Color('bright_red',     ['#e58f07', 167])     " 251-73-52      #fb4934
 call s:Color('bright_green',   ['#b8bb26', 142])     " 184-187-38
 call s:Color('bright_yellow',  ['#fabd2f', 214])     " 250-189-47
 call s:Color('bright_blue',    ['#83a598', 109])     " 131-165-152
