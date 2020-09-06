@@ -1,3 +1,10 @@
+# Gruvbox - Mellow Yellow
+
+I don't like the red color for text and error highlighting in the dark theme. So I tweaked it to be a warm yellow color.
+The light mode is vanila gruvbox. 
+
+
+
 <p align="center"><img src="https://raw.githubusercontent.com/wiki/gruvbox-community/gruvbox/images/gruvbox.svg?sanitize=true"></p>
 
 gruvbox is heavily inspired by [badwolf][], [jellybeans][] and [solarized][].
