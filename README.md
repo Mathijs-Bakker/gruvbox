@@ -3,7 +3,7 @@
 I don't like the red color for text and error highlighting in the dark theme. So I tweaked it to be a warm yellow color.
 The light mode is vanila gruvbox. 
 
-![Screenshot](/images/mellowyellow.png | width=1120)
+![Screenshot](/images/mellowyellow.png)
 
 <p align="center"><img src="https://raw.githubusercontent.com/wiki/gruvbox-community/gruvbox/images/gruvbox.svg?sanitize=true"></p>
 
